@@ -1,0 +1,6 @@
+baseURL = 'https://lihuanshuai.github.io/'
+languageCode = 'zh-cn'
+title = "Li Huanshuai's Blog"
+
+# Theme
+theme = ['paper']
