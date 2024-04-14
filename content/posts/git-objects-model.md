@@ -4,7 +4,7 @@ date = 2024-04-14T18:06:45+08:00
 draft = false
 
 [params]
-  mermaid = true
+mermaid = true
 +++
 
 # Git 内部对象模型
