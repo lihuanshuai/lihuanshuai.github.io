@@ -8,6 +8,7 @@ theme = ['paper']
 [params]
 github = 'lihuanshuai'
 rss = true
+tags = true
 
 avatar = 'https://avatars.githubusercontent.com/u/4586647'
 name = 'Li Huanshuai'
