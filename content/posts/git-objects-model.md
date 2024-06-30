@@ -79,7 +79,7 @@ Git 对象是 Git 的基本组成元素，它们存储了文件和目录的内�
 
 ## 参考资料
 
-- [Pro Git](https://git-scm.com/book/en/v2)
-- [Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
-- [Understanding Git under the hood](https://medium.com/swlh/understanding-git-under-the-hood-b1aeae1d02f5)
+1. [Pro Git](https://git-scm.com/book/en/v2)
+1. [Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
+1. [Understanding Git under the hood](https://medium.com/swlh/understanding-git-under-the-hood-b1aeae1d02f5)
 

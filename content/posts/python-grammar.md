@@ -936,3 +936,7 @@ comment:
 ```
 
 如上所示，`comments` 是一系列注释的集合，`comment` 是一个注释，包括行注释和块注释。
+
+## 参考资料
+
+1. [10. Full Grammar specification](https://docs.python.org/3/reference/grammar.html)
