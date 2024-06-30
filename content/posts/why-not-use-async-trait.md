@@ -5,8 +5,6 @@ tags = ['Rust', 'Async', 'Trait', 'async-trait', 'trait_variant']
 draft = false
 +++
 
-# 为什么不要使用 async-trait?
-
 ## async-trait
 
 编写 Rust 异步代码时，我们通常会使用 `async` 关键字来定义异步函数，这样可以让函数返回一个 `Future` 对象，然后我们可以通过 `.await` 方法来等待这个 `Future` 对象的结果。但是有时候我们可能会想要在 trait 中定义异步函数，这时候，作为以前的标准做法，我们会使用 `async-trait` crate 来实现这个功能。

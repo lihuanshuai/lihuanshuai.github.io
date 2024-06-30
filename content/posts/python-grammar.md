@@ -8,8 +8,6 @@ draft = false
 mermaid = true
 +++
 
-# Python 语法介绍
-
 语法（Grammar），是一门编程语言的基础，它指定了解释器如何解释源代码。Python 语法简洁明了，易于学习和使用，但是也有一些特殊的地方，需要特别注意。
 
 ## Grammar 语法
