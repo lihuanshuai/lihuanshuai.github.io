@@ -1,7 +1,7 @@
 +++
 title = 'Go 泛型'
 date = 2024-07-01T00:51:01+08:00
-tags = ['Go', 'Generics']
+tags = ['Go', '泛型']
 draft = false
 +++
 
