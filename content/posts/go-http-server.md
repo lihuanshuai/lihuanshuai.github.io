@@ -1,6 +1,7 @@
 +++
 title = 'Go Http Server'
 date = 2024-07-03T00:17:52+08:00
+tags = ['Go', 'HTTP', 'Web']
 draft = false
 +++
 
