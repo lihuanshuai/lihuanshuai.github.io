@@ -1,6 +1,6 @@
 +++
 title = 'Numpy 基础（一）：数组'
-tags = ['Python', 'Numpy']
+tags = ['Python', 'Numpy', '科学计算']
 date = 2024-07-03T23:32:34+08:00
 draft = false
 
@@ -28,8 +28,8 @@ NumPy 的主要对象是同类多维数组(`ndarray`)。它是一个元素（通
 
 $$
 \begin{bmatrix}
-    1 & 0 & 0 \\
-    0 & 1 & 2 \\
+    1 & 0 & 0 \cr
+    0 & 1 & 2 \cr
 \end{bmatrix}
 $$
 
