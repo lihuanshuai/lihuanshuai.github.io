@@ -84,3 +84,8 @@ pre-commit run
 - entry 脚本需要有可执行权限，可以使用 `chmod +x scripts/my-local-hook.sh` 命令添加可执行权限。
 - entry 脚本不仅可以是 Shell 脚本，还可以是 Python 脚本、JavaScript 脚本等等。
 - 可以在 entry 脚本中调用其他工具，比如 `flake8`、`black`、`isort` 等等，来进行代码检查。
+
+## 参考资料
+
+1. [Pre-commit](https://pre-commit.com/)
+2. [pre-commit-hooks](https://pre-commit.com/hooks.html)
